@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="androidModule">C346 Android Programming</string>
+    <string name="webProgramming">Web Programming .NET</string>
+    <string name="javaProgramming">Java Programming</string>
+    <string name="itbusiness">IT Business</string>
+    <string name="phyton">python</string>
+    <string name="math">Mathematics</string>
+</resources>

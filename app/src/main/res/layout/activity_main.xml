@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/textAndroid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/androidModule"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textWebP"
+        android:layout_width="match_parent"
+        android:textSize="24sp"
+        android:layout_height="wrap_content"
+        android:text="@string/webProgramming" />
+
+    <TextView
+        android:id="@+id/textJava"
+        android:layout_width="match_parent"
+        android:textSize="24sp"
+        android:layout_height="wrap_content"
+        android:text="@string/javaProgramming" />
+
+    <TextView
+        android:id="@+id/textITBusiness"
+        android:layout_width="match_parent"
+        android:textSize="24sp"
+        android:layout_height="wrap_content"
+        android:text="@string/itbusiness" />
+
+    <TextView
+        android:id="@+id/textPython"
+        android:layout_width="match_parent"
+        android:textSize="24sp"
+        android:layout_height="wrap_content"
+        android:text="@string/phyton" />
+
+    <TextView
+        android:id="@+id/textMath"
+        android:layout_width="match_parent"
+        android:textSize="24sp"
+        android:layout_height="wrap_content"
+        android:text="@string/math" />
+
+</LinearLayout>
